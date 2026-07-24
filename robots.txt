@@ -7,4 +7,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alfadur7.github.io/llm-wiki-newsroom/sitemap.xml
+Sitemap: https://alfadur7.github.io/sitemap.xml

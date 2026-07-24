@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap index for alfadur7.github.io. The per-project sitemaps stay where
+  their generators write them; this file is the single entry point search
+  engines and robots.txt point at.
+-->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://alfadur7.github.io/sitemap-root.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://alfadur7.github.io/llm-wiki-newsroom/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
