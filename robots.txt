@@ -1,0 +1,10 @@
+# Crawlers only ever read robots.txt from the domain root, so this file governs
+# every path on alfadur7.github.io, including the project sites underneath it.
+#
+# Everything is open, AI crawlers included. That is deliberate: the work here is
+# published to be read, by people and by models alike.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://alfadur7.github.io/llm-wiki-newsroom/sitemap.xml

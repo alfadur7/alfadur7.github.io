@@ -1,0 +1,13 @@
+# alfadur7
+
+> The GitHub Pages root for alfadur7. One project lives here: LLM Wiki Newsroom, an open-source framework that turns a folder of documents into a cross-linked markdown wiki maintained by a multi-agent "newsroom" running on Claude Code.
+
+## Projects
+- [LLM Wiki Newsroom](https://alfadur7.github.io/llm-wiki-newsroom/): harness engineering applied to knowledge production. The agent that writes a page is never the one that reviews it; the authoring guidelines evolve themselves; published pages come back around as input once they go stale.
+- [Project llms.txt](https://alfadur7.github.io/llm-wiki-newsroom/llms.txt): the detailed index for that project — docs, Korean pages, key concepts, and code entry points.
+- [The Knowledge Factory](https://alfadur7.github.io/llm-wiki-newsroom/knowledge-factory/): the design argument behind it — what harness engineering is, why the three loops used for AI-assisted coding do not cover knowledge work, and what a fourth loop adds.
+- [Source repository](https://github.com/alfadur7/llm-wiki-newsroom): MIT-licensed.
+
+## Korean (한국어)
+- [소개 페이지](https://alfadur7.github.io/llm-wiki-newsroom/ko/)
+- [지식 팩토리](https://alfadur7.github.io/llm-wiki-newsroom/ko/knowledge-factory/)
